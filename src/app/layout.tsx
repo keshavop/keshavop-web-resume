@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en" className={inter.className}>
       <meta
                 name="google-site-verification"
-                content="" //TODO: Add google-site-verification code here
+                content="jqwtQzOE-bW69-ERO_ADx1rvzBkrYXMCM_UEIdS78jE"
             />
       <meta name="robots" content="follow, index" />
             <meta content={metadata.description} name="description" />
